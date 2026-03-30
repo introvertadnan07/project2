@@ -9,3 +9,4 @@ deployment
 project work continues
 new features add
 write code
+database connected
