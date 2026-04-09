@@ -10,3 +10,4 @@ project work continues
 new features add
 write code
 database connected
+backend and NeW Ai features add
